@@ -1,0 +1,18 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "third assignment for Node course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "assignment",
+    "static",
+    "files"
+  ],
+  "author": "R.Wood",
+  "license": "ISC"
+}
